@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[26722,["/_next/static/chunks/0zqwib94ikc~t.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/08.n7q7qozlky.js","/_next/static/chunks/0c4j88d9._2n8.js"],"CatalogPageClient"]
+2:I[26722,["/_next/static/chunks/0zqwib94ikc~t.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/08.n7q7qozlky.js","/_next/static/chunks/0-nbyp38uc5px.js"],"CatalogPageClient"]
 3:I[97367,["/_next/static/chunks/0zqwib94ikc~t.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"products":[],"options":{"categories":["Mesin","Suspensi","Pengereman","Oli","Ban","Aksesoris"],"brands":[],"vehicles":[],"motorCodes":[],"priceRange":{"min":0,"max":0}},"backendAvailable":true}],[["$","script","script-0",{"src":"/_next/static/chunks/0c4j88d9._2n8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bYPd3XgL1cY3VIL2UoNEm"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"products":[],"options":{"categories":["Mesin","Suspensi","Pengereman","Oli","Ban","Aksesoris"],"brands":[],"vehicles":[],"motorCodes":[],"priceRange":{"min":0,"max":0}},"backendAvailable":true}],[["$","script","script-0",{"src":"/_next/static/chunks/0-nbyp38uc5px.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fRfqvSE7YFvIaB8N4SkEQ"}
 5:null
