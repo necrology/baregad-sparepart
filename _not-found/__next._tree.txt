@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0x53288k_4le4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"c1m6R8iRriL-SQ1Bo9w5j"}
+:HL["/baregad-sparepart/_next/static/chunks/14i_q1gjnjiha.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"n3uUpUEwtzulm9xFgwSfc"}
