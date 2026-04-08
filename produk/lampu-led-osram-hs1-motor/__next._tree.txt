@@ -1,5 +1,0 @@
-:HL["/_next/static/chunks/0x53288k_4le4.css","style"]
-:HL["/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a343f882a40d2cc9-s.p.0kho-wj7-y-w1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/uploads/app-assets/asset-1a864711-8a20-4ae8-bb54-6447891caf1c.png?v=1775401547000","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(storefront)","param":null,"prefetchHints":0,"slots":{"children":{"name":"produk","param":null,"prefetchHints":0,"slots":{"children":{"name":"lampu-led-osram-hs1-motor","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"c1m6R8iRriL-SQ1Bo9w5j"}
